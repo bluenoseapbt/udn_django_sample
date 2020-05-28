@@ -15,6 +15,7 @@ class ParticipantForm(forms.ModelForm):
             """Initiate form with Crispy Form's FormHelper"""
             super(ParticipantForm, self).__init__(*args, **kwargs)
             self.helper = FormHelper()
+            self.fields['fullname'].label = 'Full Name'
             self.fields['environmentExposures'].widget.attrs['rows'] = 4
             self.fields['environmentExposures'].widget.attrs['columns'] = 15
             self.fields['environmentExposures'].label = 'Environment Exposures'
