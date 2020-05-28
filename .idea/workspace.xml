@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56d6a23b-d448-4fb5-b236-f65141bcb480" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="udnParticipants" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGlFTn0Cr4Q2EykWvfRRAN43vP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/udnParticipants" />
+      <recent name="$PROJECT_DIR$/udnParticipants/config" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/udnParticipants/templates/registration" />
+      <recent name="$PROJECT_DIR$/udnParticipants/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udnParticipants" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56d6a23b-d448-4fb5-b236-f65141bcb480" name="Default Changelist" comment="" />
+      <created>1590162706484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590162706484</updated>
+      <workItem from="1590162707995" duration="6948000" />
+      <workItem from="1590241706099" duration="73373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1850" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590617706513">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1850" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590617706513" />
+    <state x="368" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590163987571">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="368" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1590163987571" />
+    <state x="3975" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590427401039">
+      <screen x="3360" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3975" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590427401039" />
+    <state width="620" height="466" key="DebuggerActiveHint" timestamp="1590516583160">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="620" height="466" key="DebuggerActiveHint/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590516583160" />
+    <state x="3678" y="161" width="1136" height="653" key="DiffContextDialog" timestamp="1590437954944">
+      <screen x="3360" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3678" y="161" width="1136" height="653" key="DiffContextDialog/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590437954944" />
+    <state x="482" y="203" key="FileChooserDialogImpl" timestamp="1590163207688">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="482" y="203" key="FileChooserDialogImpl/0.23.1440.877@0.23.1440.877" timestamp="1590163207688" />
+    <state width="1478" height="249" key="GridCell.Tab.0.bottom" timestamp="1590672995362">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.0.bottom/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590672995362" />
+    <state width="1294" height="241" key="GridCell.Tab.0.bottom/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583218" />
+    <state width="1478" height="249" key="GridCell.Tab.0.center" timestamp="1590672995361">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.0.center/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590672995361" />
+    <state width="1294" height="241" key="GridCell.Tab.0.center/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583216" />
+    <state width="1478" height="249" key="GridCell.Tab.0.left" timestamp="1590672995360">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.0.left/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590672995360" />
+    <state width="1294" height="241" key="GridCell.Tab.0.left/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583214" />
+    <state width="1478" height="249" key="GridCell.Tab.0.right" timestamp="1590672995362">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.0.right/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590672995362" />
+    <state width="1294" height="241" key="GridCell.Tab.0.right/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583217" />
+    <state width="1478" height="314" key="GridCell.Tab.1.bottom" timestamp="1590627650422">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="314" key="GridCell.Tab.1.bottom/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590627650422" />
+    <state width="1294" height="241" key="GridCell.Tab.1.bottom/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583221" />
+    <state width="1478" height="314" key="GridCell.Tab.1.center" timestamp="1590627650420">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="314" key="GridCell.Tab.1.center/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590627650420" />
+    <state width="1294" height="241" key="GridCell.Tab.1.center/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583219" />
+    <state width="1478" height="314" key="GridCell.Tab.1.left" timestamp="1590627650419">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="314" key="GridCell.Tab.1.left/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590627650419" />
+    <state width="1294" height="241" key="GridCell.Tab.1.left/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583218" />
+    <state width="1478" height="314" key="GridCell.Tab.1.right" timestamp="1590627650421">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1478" height="314" key="GridCell.Tab.1.right/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590627650421" />
+    <state width="1294" height="241" key="GridCell.Tab.1.right/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590450583220" />
+    <state x="183" y="23" key="SettingsEditor" timestamp="1590163214437">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="183" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590163214437" />
+    <state width="810" height="491" key="XDebugger.FullValuePopup" timestamp="1590517158173">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="810" height="491" key="XDebugger.FullValuePopup/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590517158173" />
+    <state width="810" height="491" key="XDebugger.FullValuePopup/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590447298961" />
+    <state x="3678" y="161" width="1136" height="653" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590437954945">
+      <screen x="3360" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3678" y="161" width="1136" height="653" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590437954945" />
+    <state x="1790" y="318" width="1140" height="653" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590628001074">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1790" y="318" width="1140" height="653" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@1440.23.1920.1057" timestamp="1590628001074" />
+    <state x="3649" y="324" width="1140" height="653" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590511987589" />
+    <state x="384" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1590242599053">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="384" y="300" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1590242599053" />
+    <state x="4056" y="205" key="run.anything.popup" timestamp="1590446997058">
+      <screen x="3360" y="23" width="1920" height="1057" />
+    </state>
+    <state x="4056" y="205" key="run.anything.popup/0.23.1440.877/3360.23.1920.1057/1440.23.1920.1057@3360.23.1920.1057" timestamp="1590446997058" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/udnParticipants$manage.coverage" NAME="manage Coverage Results" MODIFIED="1590672820516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udnParticipants$.coverage" NAME=" Coverage Results" MODIFIED="1590617622076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
