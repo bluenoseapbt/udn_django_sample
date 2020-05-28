@@ -43,7 +43,7 @@ Development
 
 To setup the environment
 
-    $ ./dev-setup.sh
+    $ ./dev_setup.sh
 
 To run the script
 
